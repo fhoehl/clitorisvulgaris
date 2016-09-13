@@ -1,0 +1,5 @@
+.DS_Store
+.pyenv
+.env
+*.blend1
+__pycache__
